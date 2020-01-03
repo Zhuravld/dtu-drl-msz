@@ -1,0 +1,8 @@
+memory.gif
+.ipynb_checkpoints/pong-random-300-steps_trained_test-checkpoint.gif
+.ipynb_checkpoints/train-checkpoint.py
+.vscode/settings.json
+__pycache__/DQN.cpython-37.pyc
+__pycache__/ReplayMemory.cpython-37.pyc
+__pycache__/train.cpython-37.pyc
+__pycache__/train2.cpython-37.pyc
