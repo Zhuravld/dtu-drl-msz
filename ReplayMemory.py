@@ -2,6 +2,7 @@ import numpy as np
 
 class ReplayMemory:
     """
+    Code in this file entirely attributable to Scott Rome:
     https://github.com/srome/ExPyDQN/blob/master/src/replay_memory.py#L3
 
     Class to represent the replay memory logic.
